@@ -127,7 +127,9 @@
     }
     .widget_info:after { display: none; }
     .ttm-header-style-01 .site-branding img {
-        max-height: 47px;
+        max-height: 200px;
+        margin-top: -31px;
+        filter: drop-shadow(-1px 7px 4px #000);
     }
     .ttm-header-style-01 .ttm-header-featured-iconbox .widget_info {
         padding: 12px 30px 12px 15px;

@@ -2259,7 +2259,7 @@ ul.menu li.active ul.mega-submenu li.active > a {
 }
 .site-branding img {
     z-index: 1;
-    max-height: 44px;
+    max-height: 100px;
     position: relative;
     transition: none;
 }
